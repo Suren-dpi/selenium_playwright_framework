@@ -1,0 +1,18 @@
+1709295914070	geckodriver	INFO	Listening on 127.0.0.1:60327
+1709295917125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SUREND~1.JAY\\AppData\\Local\\Temp\\rust_mozprofileFmOdBs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709295917776	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709295917931	Marionette	INFO	Listening on port 60338
+WebDriver BiDi listening on ws://127.0.0.1:60328
+Read port: 60338
+1709295918136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60328/devtools/browser/83d3b4b8-30e0-41d5-a47d-026b48f62ee8
+JavaScript warning: https://sparcs.innoviti.com/static/js/2.beb1206e.chunk.js, line 2: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: https://sparcs.innoviti.com/static/js/2.beb1206e.chunk.js, line 2: InvalidTokenError: Invalid token specified
+1709295924256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://sparcs.innoviti.com/static/js/2.beb1206e.chunk.js, line 2: asm.js type error: expecting argument type declaration for 't' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sparcs.innoviti.com."
+1709295925989	Marionette	INFO	Stopped listening on port 60338
+Dynamically enable window occlusion 1
